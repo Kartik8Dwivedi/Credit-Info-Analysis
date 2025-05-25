@@ -22,7 +22,7 @@ To analyze customer credit data, extract actionable insights, and build robust m
 
 ## 📂 Dataset
 
-- **Source**: [Kaggle / Open Source Dataset] *(Update with actual link if public)*  
+- **Source**: [[Dataset Link]](https://www.kaggle.com/competitions/home-credit-default-risk/data)
 - **Size**: ~45,000 client records  
 - **Features**: Demographic info, financial history, credit behavior, loan status  
 
